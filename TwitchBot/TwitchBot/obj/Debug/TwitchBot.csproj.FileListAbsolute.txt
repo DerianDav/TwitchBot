@@ -1,0 +1,6 @@
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe.config
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\bin\Debug\TwitchBot.pdb
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\obj\Debug\TwitchBot.exe
+c:\users\derian\documents\visual studio 2015\Projects\TwitchBot\TwitchBot\obj\Debug\TwitchBot.pdb
