@@ -25,8 +25,9 @@ namespace TwitchBot
                 string message = irc.readMessage();
                 string curUser = irc.getUserName(message);
 
-                if (message != "")
-                    irc.sendChatMessage(message);
+              
+//                if (message != "")
+  //                  irc.sendChatMessage(message);
 
                 if (message.Contains("!banRoulette")) {
                     int random = rand.Next();
